@@ -1,5 +1,5 @@
 # Kiln Controller HATs
-HATs to implement "jbruce12000/kiln-controller" in Raspberry Pi Zero W form-factor.
+HATs to implement [jbruce12000/kiln-controller](https://github.com/jbruce12000/kiln-controller) in Raspberry Pi Zero W form-factor.
 
 ## Two PCBs
 There are two PCBs for controlling the MAX31855 in either software or hardware SPI. The software PCB has a cleaner layout with traces, but is allegedy slower.
