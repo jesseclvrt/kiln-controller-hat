@@ -3,6 +3,7 @@ HATs to implement [jbruce12000/kiln-controller](https://github.com/jbruce12000/k
 
 ## Two PCBs
 There are two PCBs for controlling the MAX31855 in either software (right) or hardware(left) SPI. The software PCB has a cleaner layout with traces, but is allegedy slower.
+
 ![PCBs](PCB.jpeg)
 
 ## BOM
